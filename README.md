@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sean Kali CTF Lab
 
 Rules:
@@ -14,3 +15,7 @@ Folders:
 - forensics/
 - pwn/
 - notes/
+=======
+# cyber-foundation
+A personal repository for Cybersecurity and Linux engineering learning. Includes Week1–WeekX notes, Bandit &amp; CTF exercises, and engineering workflow practices.
+>>>>>>> 6afd5bd3c9fbcd90245f0571be82bd3bb7aa96fd
